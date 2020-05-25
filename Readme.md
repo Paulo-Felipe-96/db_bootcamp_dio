@@ -40,7 +40,7 @@ $ sudo apt-get install postgresql-12
 
 Se não funcionar na primeira tentativa, execute "$ sudo apt update" e em seguida repita "$ sudo apt-get install postgresql-12".
 
-Link da documentação (aqui)[https://www.postgresql.org/docs/]
+Link da documentação [aqui](https://www.postgresql.org/docs/)
 
 ### pgAdmin 4
 
@@ -59,7 +59,7 @@ $ sudo apt install pgadmin4
 
 Pronto, pgAdmin 4 instalado com sucesso e facilmente!
 
-Link da documentação (aqui)[https://www.pgadmin.org/docs/]
+Link da documentação [aqui](https://www.pgadmin.org/docs/)
 
 ## Aventureiros de Windows (8+)
 
@@ -68,8 +68,8 @@ Siga a documentação oficial.
 
 Lembrando: "next", "next", "next" e "finished".
 
-PostgreSQL link da documentação (aqui)[https://www.postgresql.org/docs/]
-pgAdmin 4 link da documentação (aqui)[https://www.pgadmin.org/docs/]
+PostgreSQL link da documentação [aqui](https://www.postgresql.org/docs/)
+pgAdmin 4 link da documentação [aqui](https://www.pgadmin.org/docs/)
 
 ## 🚀  Tecnologias
 
