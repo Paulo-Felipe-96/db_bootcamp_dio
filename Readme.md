@@ -23,7 +23,7 @@ $ wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo ap
 sudo apt-get update
 ```
 
-Abra o "Software Sources" ou "Recursos de Software" e clique em "Reposisótios Oficiais" e adicione o item com o link:
+Abra o "Software Sources" ou "Recursos de Software" e clique em "Repositórios Oficiais" e adicione o item com o link:
 ```
 $ deb http://apt.postgresql.org/pub/repos/apt/ bionic-pgdg main
 ```
